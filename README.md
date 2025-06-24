@@ -17,7 +17,7 @@ A real-time dashboard to visualize **USDT token transfers** across **Ethereum**,
 
 ## 📸 Preview
 
-![Dashboard Screenshot](link-to-screenshot-if-you-upload-it)
+![alt text](image.png)
 
 ---
 
@@ -45,12 +45,13 @@ cross-chain-token-tracker/
 
 ## ⚙️ Getting Started
 
-1. **Clone the repository**
+1.**Clone the repository**
    
    git clone https://github.com/srujan911/cross-chain-token-tracker.git
+
    cd cross-chain-token-tracker
 
-2. **Create and activate a virtual environment**
+2.**Create and activate a virtual environment**
 
     
     python -m venv .venv
@@ -67,4 +68,5 @@ cross-chain-token-tracker/
     POLYGON_RPC_URL=https://your-polygon-node
 
 5.**Run the app**
+
     streamlit run dashboard/app.py
