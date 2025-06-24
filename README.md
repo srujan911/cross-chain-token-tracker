@@ -35,12 +35,19 @@ A real-time dashboard to visualize **USDT token transfers** across **Ethereum**,
 ## 📂 Project Structure
 
 cross-chain-token-tracker/
+
 ├── dashboard/ # Streamlit dashboard
+
 ├── scripts/ # Data fetching scripts (RPC logs)
+
 ├── data/ # Output CSV logs (ETH, BNB, Polygon)
+
 ├── utils/ # Helper modules
+
 ├── .env # Environment config (RPC URLs)
+
 ├── requirements.txt # Dependencies
+
 └── README.md
 
 ## ⚙️ Getting Started
@@ -68,5 +75,9 @@ cross-chain-token-tracker/
     POLYGON_RPC_URL=https://your-polygon-node
 
 5.**Run the app**
+<<<<<<< HEAD
 
     streamlit run dashboard/app.py
+=======
+    streamlit run dashboard/app.py
+>>>>>>> dd66884606523d6ab0e5a493a9b8d6ee8e690304
