@@ -75,9 +75,5 @@ cross-chain-token-tracker/
     POLYGON_RPC_URL=https://your-polygon-node
 
 5.**Run the app**
-<<<<<<< HEAD
 
     streamlit run dashboard/app.py
-=======
-    streamlit run dashboard/app.py
->>>>>>> dd66884606523d6ab0e5a493a9b8d6ee8e690304
